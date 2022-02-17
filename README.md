@@ -1,2 +1,2 @@
-# Frontend_mentor_challenge_qr_component
-QR Code Component
+
+Started out with Vue.js!!
