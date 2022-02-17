@@ -1,5 +1,6 @@
 .DS_Store
 node_modules
+qr-code-component-main
 /dist
 
 
