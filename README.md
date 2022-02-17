@@ -1,0 +1,2 @@
+# Frontend_mentor_challenge_qr_component
+QR Code Component
