@@ -5,7 +5,8 @@
         </h2>
 
         <p class="card_text__descr">
-            Scan the QR code to visit Frontend Mentor and take your coding skills to the next level.
+            Scan the QR code to visit my <br />Portfolio.
+            This my first Vue.js Component &#129488;
         </p>
     </div>
 </template>
