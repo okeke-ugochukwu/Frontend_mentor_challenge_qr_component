@@ -1,7 +1,7 @@
 .DS_Store
 node_modules
 qr-code-component-main
-/dist
+dist
 
 
 # local env files
